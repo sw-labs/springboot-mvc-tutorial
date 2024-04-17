@@ -20,5 +20,7 @@ tasks:
 # Extensiones
 vscode:
   extensions:
-    - pivotal.vscode-spring-boot
+    - vmware.vscode-boot-dev-pack
     - vscjava.vscode-java-pack
+    - redhat.vscode-xml
+    - mhutchie.git-graph
